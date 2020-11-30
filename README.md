@@ -7,14 +7,14 @@ I could not attempt solving task problems from 18th of November as due to some r
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-__Why must we choose you?
+__Why must we choose you?__
 
 I enjoy solving coding problems and in club there will be many seniors with whom I can interact and ask them for help where I got stuck. I can discuss about the idea of creating some new projects and I will be pleased being together with  my seniors.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-__How were you before joining and how are you now.
+__How were you before joining and how are you now.__
 
 As college is not started offline yet, it really doesn't feels like now I am a college student. 
 Waiting for college to reopen and enjoy the college and hostel life.
