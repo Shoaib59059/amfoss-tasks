@@ -22,21 +22,21 @@ Waiting for college to reopen and enjoy the college and hostel life.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-__What are your comments and suggestions regarding the selection process.
+__What are your comments and suggestions regarding the selection process.__
 
 Personally I don't have any complain with the selection process. All I can say that the factor of interest and dedication of the students should be considered.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-__What is your plan for the next 6 months?
+__What is your plan for the next 6 months?__
 
 learn Python and get into some project and enjoy being pleased as a part of amFOSS.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-__How would you contribute back to the club?
+__How would you contribute back to the club?__
 
 I will help my juniors in learning what I know. I will Participate in coding competition and will lead the name of amFOSS.
 
